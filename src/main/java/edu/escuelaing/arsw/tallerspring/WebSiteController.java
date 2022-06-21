@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.*;
 public class WebSiteController {
     public static void main(String[] args) {
         SpringApplication.run(WebSiteController.class, args);
+        Singleton.getInstance().getNumber();
     }
 
     @RequestMapping(
