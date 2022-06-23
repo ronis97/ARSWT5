@@ -22,11 +22,12 @@
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-web</artifactId>
-      <version>2.3.1.RELEASE</version>
+      <version>2.7.0</version>
     </dependency>
+
     <dependency>
       <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-starter-actuator</artifactId>
+      <artifactId>spring-boot-starter-thymeleaf</artifactId>
       <version>2.7.0</version>
     </dependency>
   </dependencies>
@@ -37,7 +38,7 @@
         <artifactId>spring-boot-maven-plugin</artifactId>
         <version>2.4.1</version>
         <configuration>
-          <mainClass>edu.escuelaing.arsw.tallerspring.WebSiteController</mainClass>
+          <mainClass>edu.escuelaing.arsw.picasyfamas.PicasyFamasApplication</mainClass>
         </configuration>
         <executions>
           <execution>
