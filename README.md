@@ -44,15 +44,15 @@ http://127.0.0.1:8080
 
 ### Ejecucion
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://infinite-headland-88795.herokuapp.com/index.html)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://nameless-wildwood-72152.herokuapp.com)
 
 
 
 ### Diagrama de clases
 
-El diagrama completo se puede encontrar en el archivo `Taller2ARSW.asta` 
+El diagrama completo se puede encontrar en el archivo `TallerArsw5.asta` 
 
-![]()
+
 
 
 
