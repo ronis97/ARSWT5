@@ -52,7 +52,7 @@ http://127.0.0.1:8080
 
 El diagrama completo se puede encontrar en el archivo `TallerArsw5.asta` 
 
-
+[](https://github.com/ronis97/ARSWT5/blob/main/resources/Tallerarsw5.png)
 
 
 
