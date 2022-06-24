@@ -1,6 +1,6 @@
-# Tercer taller de ARSW
+# Quinto taller de ARSW
 
-Creacion de un servidor web en Java
+Juego de picas y famas
 
 ## Preparacion
 
@@ -32,13 +32,13 @@ con esto maven se encargara de descargar todos los recursos necesarios para la e
 Para ejecutar el programa simplemente corremos la instrucción:
 
 ```
-mvn exec:java -Dexec.mainClass="edu.escuelaing.arsw.app.networking.webServer.WebServer" -Dexec.args=""
+mvn spring-boot:run
 ```
 
 En el navegador entramos con la dirección:
 
 ```
-http://127.0.0.1:35000
+http://127.0.0.1:8080
 ```
 
 
@@ -65,6 +65,7 @@ El diagrama completo se puede encontrar en el archivo `Taller2ARSW.asta`
 ## License
 
 Este proyecto esta bajo la licencia [GNU General Public License v2.0](https://github.com/ronis97/ARSW-T1/blob/master/LICENSE) de uso libre. 
+
 
 
 
